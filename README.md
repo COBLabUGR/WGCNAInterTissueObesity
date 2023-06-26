@@ -6,7 +6,8 @@ Bustos-Aibar M, Aguilera CM, Alcalá-Fdez J, Ruiz-Ojeda FJ, Plaza-Díaz J, Plaza
 
 https://doi.org/10.1016/j.compbiomed.2023.107085.
 
-The gene expression datasets associated with this article are from visceral adipose tissue (VAT) and skeletal muscle tissue (SMT). They can be consulted in GEO with their corresponding accession number:
+The gene expression datasets associated with this article are from visceral adipose tissue (VAT) and skeletal muscle tissue (SMT) samples. 
+They can be consulted in GEO with their corresponding accession number:
 
 - VAT: [GSE9624](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE9624)
 
