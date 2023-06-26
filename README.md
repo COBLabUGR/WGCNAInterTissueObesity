@@ -4,7 +4,7 @@ This repository contains datasets and codes employed for the data analyses of th
 
 Bustos-Aibar M, Aguilera CM, Alcalá-Fdez J, Ruiz-Ojeda FJ, Plaza-Díaz J, Plaza-Florido A, Tofe I, Gil-Campos M, Gacto MJ, Anguita-Ruiz A. Shared gene expression signatures between visceral adipose and skeletal muscle tissues are associated with cardiometabolic traits in children with obesity (2023). Computers in Biology and Medicine, ISSN 0010-4825. 
 
-https://doi.org/10.1016/j.compbiomed.2023.107085.
+https://doi.org/10.1016/j.compbiomed.2023.107085
 
 The gene expression datasets associated with this article are from visceral adipose tissue (VAT) and skeletal muscle tissue (SMT) samples. 
 They can be consulted in *Gene Expression Omnibus* (GEO) with their corresponding accession number:
