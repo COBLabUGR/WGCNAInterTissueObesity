@@ -1,5 +1,5 @@
 The gene expression datasets associated with this paper were from Visceral Adipose Tissue (VAT) and Skeletal Muscle Tissue (SMT). They can be consulted in GEO with their corresponding accession number:
 
-- VAT: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE9624
+- VAT: [GSE9624](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE9624)
 
-- SMT: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE139400
+- SMT: [GSE139400](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE139400)
